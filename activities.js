@@ -9,5 +9,5 @@ const ALC_ACTIVITIES = [
   { day: 5, title: "Chain Prayer", time: "10:00 AM – 12:00 PM", icon: "🙏" },
   { day: 0, title: "First Service", time: "7:00 AM – 9:00 AM", icon: "⛪" },
   { day: 0, title: "Second Service", time: "9:30 AM – 12:30 PM", icon: "⛪" },
-  { day: 0, title: "Google Meet — Learn About God's Love", time: "7:00 PM – 8:00 PM", icon: "💻" }
+  { day: 0, title: "Google Meet — Learn About God's Love (Innum Devanai Therindhu Kolluvadhu Eppadi)", time: "7:00 PM – 8:00 PM", icon: "💻" }
 ];
